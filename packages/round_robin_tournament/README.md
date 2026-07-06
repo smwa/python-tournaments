@@ -1,4 +1,7 @@
 # Round Robin Tournament
+
+> Part of the [tournament monorepo](../../README.md), published independently to PyPI as `round_robin_tournament`. See the repo root README for the other tournament packages ([double_elimination](../double_elimination/README.md), [single_elimination](../single_elimination/README.md)).
+
 This is a python package to manage the matches for a round robin tournament.
 
 For usage, see the test files.
