@@ -11,7 +11,7 @@ setuptools.setup(
     description="A round robin tournament match handler.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/smwa/round_robin_tournament",
+    url="https://github.com/smwa/python-tournaments/tree/master/packages/round_robin_tournament",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
